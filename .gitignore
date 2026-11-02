@@ -1,0 +1,12 @@
+# Local reverse-engineering material, tools, runs, captures, and notes.
+/research/
+
+# Link to the shared local tools folder.
+/tools
+
+# Local CMake/IDE outputs and generated release archives.
+/build*/
+/dist/
+/.vs/
+/CMakeUserPresets.json
+__pycache__/
